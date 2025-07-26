@@ -91,7 +91,7 @@
                 <ul>
                   <li class="px-4 py-2 hover:bg-gray-100 cursor-pointer flex">
                     <img src="/img/pf/pf.png" class="me-2" />
-                    Trung tâm Tài khoản
+                    Trung tâm Tài khoảns
                   </li>
                   <li class="px-4 py-2 hover:bg-gray-100 cursor-pointer flex">
                     <img src="/img/pf/home.png" class="me-2" />
